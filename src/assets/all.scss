@@ -1,0 +1,4 @@
+@import "~bootstrap/scss/functions"; //定義variable中用到的方法，才能使用variable
+@import "./helpers/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "./helpers/dashboard.scss";
